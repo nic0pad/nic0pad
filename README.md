@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nic0pad
 - 👀 I’m interested in development
-- 🌱 I’m currently learning Java and Salesforce
+- 🌱 I’m currently searching a Salesforce Developper Job
 - 💞️ I’m looking to collaborate on web apps
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nicolaspadiou/)
 
